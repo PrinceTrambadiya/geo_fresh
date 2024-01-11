@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528672007846",
+    "project_id": "geo-fresh-ef655",
+    "storage_bucket": "geo-fresh-ef655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528672007846:android:3250d7f635a900fb4d3667",
+        "android_client_info": {
+          "package_name": "com.app.geofresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528672007846-30jpkmakpv5gj9mmkk93j1d9dquc4o44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.geofresh",
+            "certificate_hash": "5e855135d1d2f6963877ad5cc60cd55acada3e92"
+          }
+        },
+        {
+          "client_id": "528672007846-pq54v7153f2kh6a2u6mdi11qn6kbbac3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.geofresh",
+            "certificate_hash": "c62c91e36e9f8a5c89d89aff039e84c40427c851"
+          }
+        },
+        {
+          "client_id": "528672007846-pvthdd7e0aslaipph2k136vicpnji6ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPS07N_dP-bQtKrDKsytJwIheJbUp35nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528672007846-pvthdd7e0aslaipph2k136vicpnji6ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

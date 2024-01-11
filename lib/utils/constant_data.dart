@@ -1,0 +1,9 @@
+const String USER_ID = "id";
+const String TOKEN = "token";
+const String ROLE = "roles";
+const String MOBILE = "mobile";
+const String ISVERIFY = "isVerify";
+const String FARMER = "farmer";
+const String BUSINESS = "business";
+const String PROFILEIMAGE =
+    "https://i2.wp.com/mycounselingconnections.com/wp-content/uploads/2018/06/bio-portrait-placeholder.jpg?ssl=1";
